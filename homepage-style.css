@@ -23,24 +23,25 @@ body {
 	font-size: 15px;
 	color: #202020;
 	text-decoration: none;
+	
+
 }
 
 .card {
-	width: 400px;
+	width: 600px;
 	height: 250px;
 
-	background-color: #EEDCD1;
 	margin: 3%;
 
-	text-align: center;
+	text-align: left;
 }
 
 .card img {
-	width: 200px;
+	width: 100%;
 }
 
 .card:hover{
-	box-shadow: 8px 8px rgba(0,0,0,1);
+
 }
 
 
