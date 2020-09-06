@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.menu {
+	width: 100%;
+	background-color: #F2F2F2;
+
+	text-align: center;
+	text-decoration: none;
+	padding: 2% 0%;
+
+	display: flex;
+
+
+}
+
+.menu a {
+	padding: 0% 2%;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	color: #202020;
+	text-decoration: none;
+}
+
+.card {
+	width: 400px;
+	height: 250px;
+
+	background-color: #EEDCD1;
+	margin: 3%;
+
+	text-align: center;
+}
+
+.card img {
+	width: 200px;
+}
+
+.card:hover{
+	box-shadow: 8px 8px rgba(0,0,0,1);
+}
+
+
